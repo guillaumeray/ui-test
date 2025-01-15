@@ -29,8 +29,7 @@ npm install
 ```
 
 ### 3. Copy browser cookies
-In your personal browser, make sure you are already login in mistral.ai and have access to [the chat](https://chat.mistral.ai/chat)
-In order to run chat page test you need to copy / paste your browser cookie list in following file : 
+Ensure you are logged into Mistral.ai in your personal browser and have access to [the chat](https://chat.mistral.ai/chat), then copy and paste your browser's cookie list into the following file to run the chat page test.
 ```
 support/cookies.json
 ```
